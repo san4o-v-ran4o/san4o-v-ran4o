@@ -30,8 +30,12 @@
   <img src="https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/CSS-333333?style=flat&logo=css&logoColor=fff" height="30"/>
   <img src="https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi" height="30"/>
+</p>
+
+
+<p align="center">
   <a href="https://www.codewars.com/users/san4o-v-ran4o" target="_blank">
-    <img src="https://img.shields.io/badge/-Codewars-333333?style=flat&logo=codewars" height="30"/>
+    <img src="https://www.codewars.com/users/san4o-v-ran4o/badges/small" height="30" alt="Codewars badge"/>
   </a>
 </p>
 
