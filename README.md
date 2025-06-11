@@ -14,14 +14,16 @@
 
 ### 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" height="30"/>
+  <img src="https://img.shields.io/badge/-Django-333333?style=flat&logo=django" height="30"/>
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" height="30"/>
+  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" height="30"/>
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
+</p>
 
 ---
 
