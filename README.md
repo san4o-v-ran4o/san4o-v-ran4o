@@ -23,7 +23,9 @@
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" height="30"/>
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
-  <img src="https://www.codewars.com/users/san4o-v-ran4o/badge/-Codewars-333333?style=flat&logo=github" height="30"/>
+  <a href="https://www.codewars.com/users/san4o-v-ran4o" target="_blank">
+    <img src="https://www.codewars.com/users/san4o-v-ran4o/badges/small" height="30" alt="Codewars badge"/>
+  </a>
 </p>
 
 ---
