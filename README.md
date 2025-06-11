@@ -14,9 +14,9 @@
 
 ---
 
-### 🧰 Tech Stack
+<h3 align="center">🧰 Tech Stack</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" height="30"/>
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=san4o-v-ran4o&show_icons=true&theme=github_dark" />
