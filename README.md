@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Aleksander</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AFF9B&center=true&vCenter=true&width=435&lines=I+am+a+Python+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4682B4&center=true&vCenter=true&width=600&lines=I+don't+just+write+Python+-+I+engineer+it" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,8 +21,13 @@
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" height="30"/>
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
+  <img src="https://img.shields.io/badge/-Django-333333?style=flat&logo=django" height="30"/>
+  <img src="https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite" height="30"/>
+  <img src="https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CSS-333333?style=flat&logo=css&logoColor=fff" height="30"/>
+  <img src="https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi" height="30"/>
   <a href="https://www.codewars.com/users/san4o-v-ran4o" target="_blank">
-    <img src="https://img.shields.io/badge/-Codewars-333333?style=flat&logo=github" height="30"/>
+    <img src="https://img.shields.io/badge/-Codewars-333333?style=flat&logo=codewars" height="30"/>
   </a>
 </p>
 
@@ -38,11 +41,3 @@
 </p>
 
 ---
-
-### 🏆 Badges
-
-Добавить можно через [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy):
-
-```markdown
-[![trophy](https://github-profile-trophy.vercel.app/?username=krakenivan&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
