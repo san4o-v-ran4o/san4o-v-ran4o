@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Aleksander</h1>
 <p align="center">
-  <i>I am a Python developer</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AFF9B&center=true&vCenter=true&width=435&lines=I+am+a+Python+developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
