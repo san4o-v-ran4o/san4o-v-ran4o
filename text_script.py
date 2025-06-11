@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw, ImageFont
 
 text = "I am a Python developer"
-font = ImageFont.truetype("arial.ttf", 40)
+font = font = ImageFont.load_default()
 frames = []
 
 for i in range(20):
