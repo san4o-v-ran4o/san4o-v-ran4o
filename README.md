@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alexander-prokopiev24704/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/san4o_v_ran4o"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"></a>
 </p>
 
 ---
