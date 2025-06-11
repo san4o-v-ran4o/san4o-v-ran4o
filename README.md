@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Aleksander</h1>
 <p align="center">
-  <i>I am a Py</i>
+  <i>I am a Python developer</i>
 </p>
 
 <p align="center">
