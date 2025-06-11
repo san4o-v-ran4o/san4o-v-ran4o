@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm Aleksander</h1>
+<h1 align="center">Hi, I'm Aleksander</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AFF9B&center=true&vCenter=true&width=435&lines=I+am+a+Python+developer" alt="Typing SVG" />
 </p>
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" height="30"/>
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
+  <img src="https://img.shields.io/badge/-Codewars-333333?style=flat&logo=github" height="30"/>
 </p>
 
 ---
