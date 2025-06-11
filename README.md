@@ -4,8 +4,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-prokopiev24704/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/san4o_v_ran4o"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alexander-prokopiev24704/">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1F71?logo=linkedin&logoColor=white" height="40"/>
+  </a>
+  <a href="https://t.me/san4o_v_ran4o">
+    <img src="https://img.shields.io/badge/Telegram-0A66C2?logo=telegram&logoColor=white" height="40"/>
+  </a>
 </p>
 
 ---
@@ -36,8 +40,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleksander&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksander&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=san4o-v-ran4o&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san4o-v-ran4o&layout=compact&theme=github_dark" />
 </p>
 
 ---
