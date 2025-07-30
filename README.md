@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aleksander</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4682B4&center=true&vCenter=true&width=600&lines=I+don't+just+write+Python+-+I+engineer+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4682B4&center=true&vCenter=true&width=600&lines=I+am+python+developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
